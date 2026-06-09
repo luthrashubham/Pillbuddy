@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489378982623",
+    "project_id": "abhiyantrix-330d6",
+    "storage_bucket": "abhiyantrix-330d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489378982623:android:d246986a80561c0c46d76a",
+        "android_client_info": {
+          "package_name": "com.example.pillbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FU7f4P03bVoG0C5ctiu4DXEE3LjEN8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
